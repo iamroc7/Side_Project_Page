@@ -1,6 +1,9 @@
+html{
+	overflow: hidden;
+}
 .sideprojectpage{
-	padding:20%;
-	width:100%
+	width:85%;
+	margin-left: 7.5%
 }
 .imageholder{
 	margin:10% 30%;
